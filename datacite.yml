@@ -66,6 +66,16 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 9
+      - name: Peter Turkeltaub
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0003-2080-6055
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 10
     creators:
       - name: Anderson, Elizabeth J.
         nameType: Personal
@@ -85,6 +95,9 @@ data:
         nameType: Personal
       - name: Dvorak, Elizabeth
         nameType: Personal
+      - name: Peter Turkeltaub
+        nameType: Personal
+        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
