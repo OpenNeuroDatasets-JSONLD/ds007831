@@ -1,21 +1,18 @@
 {
-    "Name": "The Georgetown Reading in Aging Neuroimaging Dataset (GRAND)",
-    "BIDSVersion": "1.10.0",
-    "DatasetType": "raw",
-    "License": "CC0",
-    "Authors": [
-        "Anderson, Elizabeth J.",
-        "Staples, Ryan",
-        "Dyslin, Sara M.",
-        "Chang, Elizabeth H. T.",
-        "Laks, Alycia B.",
-        "Dickens, J. Vivian",
-        "Mathur, Devna",
-        "Paul, Sachi",
-        "Dvorak, Elizabeth"
-    ],
-    "Acknowledgements": "Davetrina Seles Gadson\n\nCatherine “Trini” Kelly\n\nElizabeth Lacey\n\nSarah Snider\n\nCandace van der Stelt",
-    "Funding": [
-        "NIDCD R01DC014960"
-    ]
+  "Name": "The Georgetown Reading in Aging Neuroimaging Dataset (GRAND)",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+  "License": "CC0",
+  "Authors": [
+    "Anderson, Elizabeth J.",
+    "Staples, Ryan",
+    "Dyslin, Sara M.",
+    "Chang, Elizabeth H. T.",
+    "Laks, Alycia B.",
+    "Dickens, J. Vivian",
+    "Mathur, Devna",
+    "Paul, Sachi",
+    "Dvorak, Elizabeth",
+    "Turkeltaub, Peter E."
+  ]
 }
