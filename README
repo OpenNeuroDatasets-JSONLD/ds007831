@@ -6,7 +6,7 @@ Description: The purpose of this study was to establish a normative database of 
 
 ## Summary
 
-This dataset contains raw and processed structural and functional MRI data, as well as DTI imaging and derived connectomes, from 110 healthy, neurotypical older adults. The fMRI task was the Adaptive Language Mapping Task from Wilson et al., 2018. Data was collected at the Center for Functional and Molecular Imaging at the Georgetown University Medical Center.
+This dataset contains raw and processed structural and functional MRI data, as well as DTI imaging and derived connectomes, from 110 healthy, neurotypical older adults. The fMRI task was the [Adaptive Language Mapping Task from Wilson et al., 2018](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24077). Data was collected at the Center for Functional and Molecular Imaging at the Georgetown University Medical Center.
 
 ## Data Collection details: 
 
